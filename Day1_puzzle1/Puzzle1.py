@@ -1,8 +1,4 @@
 f = open(r"Day1_puzzle1\rotations.txt")
-# f.read() para leer todo y devolver una cadena
-# f.readline() para leer una línea y devolver una cadena
-# f.readlines() para leer todas las líneas y devolver una lista
-# f.close() para cerrar el archivo
 
 num = 50
 cont = 0
