@@ -29,7 +29,7 @@ for linea in f:
             cont += 1
             zero += 1
         
-    print("We reached 0: ", zero, " times.\n Count: ", cont, sep="")
+    print("We reached 0: ", zero, " times.\nCount: ", cont, sep="")
     
     it += 1
     print("Iteration: ", it, ", current number: ", num, sep="")
