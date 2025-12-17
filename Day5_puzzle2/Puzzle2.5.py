@@ -38,3 +38,4 @@ for r in fresh:
 
 print("Number of IDs considered fresh: ", cont)
 
+f.close()

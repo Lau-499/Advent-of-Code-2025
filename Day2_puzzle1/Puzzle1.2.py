@@ -28,3 +28,4 @@ for i in range(n):
         j += 1
 
 print("Final sum of invalid IDs:", count)
+f.close()

@@ -26,3 +26,4 @@ print("Solutions: ", solutions)
 
 print("Grand total = ", sum)
 
+f.close()

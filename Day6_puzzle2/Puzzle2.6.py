@@ -76,3 +76,4 @@ for nums, op in zip(onlyNums, ops): #We pair both numbers and operators position
     total += s
 
 print("Grand total =", total)
+f.close()

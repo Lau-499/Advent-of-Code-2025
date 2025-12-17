@@ -35,7 +35,7 @@ for (r, c) in rolls:
 
 print("Número de rollos accesibles:",str(len(accessable)))
 
-
+f.close()
         
 
         

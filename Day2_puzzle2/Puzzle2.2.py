@@ -51,3 +51,4 @@ for i in range(n):
 
 print("Final sum of invalid IDs:", count)
 
+f.close()

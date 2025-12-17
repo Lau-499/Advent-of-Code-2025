@@ -32,4 +32,4 @@ for line in lines:
     print("Current total sum of largest joltage in all banks:", sum)
 
 
-
+f.close()

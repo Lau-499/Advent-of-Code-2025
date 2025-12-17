@@ -34,7 +34,7 @@ for k in ingredients:
 print("Fresh ingredients: ", len(freshList))
 
 
-
+f.close()
 
 
 

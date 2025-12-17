@@ -70,7 +70,7 @@ print("Accesable: ", str(len(accessable(dict))))
 print("Removed: ", str(removed))
 
 
-
+f.close()
 
 
 
