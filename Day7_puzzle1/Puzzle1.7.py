@@ -3,7 +3,6 @@ f = open(r"Day7_puzzle1\beams.txt")
 
 lines = f.readlines()
 
-dict = {}
 cont = 0
 start = None
 for i in range(len(lines)):
